@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonnebonnie
 - 👀 I’m interested in data science with python
-- 🌱 I’m currently learning bachelor of science Mathematics 
+- 🌱 I’m currently studying bachelor of science Mathematics at The Technical university of Kenya
 - 💞️ I’m looking to collaborate on machine learning, software development, game development and web desighn
 - 📫 How to reach me using my email machariaboniface102@gmail.com
 
