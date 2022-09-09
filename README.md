@@ -7,7 +7,7 @@
 I am also a python trainer at African center for Data Science and Analytics.
 # Junior Data Scientist
 - 🌱 I recently finished my undergraduate studies pursuing bachelor of science Mathematics at The Technical university of Kenya
-- 💞️ I’m looking to collaborate on machine learning, software development, game development and web desighn
+- 💞️ I’m looking to collaborate on machine learning, data analysis, Business inteligence, software development, game development and web desighn
 - 📫 How to reach me using my email machariaboniface102@gmail.com
 
 <!---
