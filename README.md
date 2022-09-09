@@ -1,4 +1,6 @@
 - # Machine learning expert
+# My Sql expert
+# Tableau data visualization
 - 👋 Hi, I’m @leonnebonnie
 - # python Trainer
 - 👀 I’m interested in data science with python, machine learning, deep learning and Artificial intelligence.
